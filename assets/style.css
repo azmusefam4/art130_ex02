@@ -1,34 +1,38 @@
 @font-face {
     font-family: 'sabatoge';
+    font-weight: 400;
+    font-style: normal;
     src: url('assets/sabatoge.woff2')format('woff2');
-    src: url('assets/sabatoge.woff'); format('woff'):
-    
+    src: url('assets/sabatoge.woff') format('woff');
+}
+@font-face {
+    font-family: 'Helvetica Neue Ultra Light Condensed';
+    font-weight: 100;
+    font-style: normal;
+    src: url('HelveticaNeuelTStd-UltLtCn.woff2')format('woff2');
+    src: url('HelveticaNeuelTStd-UltLtCn.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'sabatoge';
-    src: url('assets/sabatoge.woff2')format('woff2');
-    src: url('assets/sabatoge.woff'); format('woff'):
-    
+    font-family: 'Helvetica Neue Thin Condensed';
+    font-weight: 200;
+    font-style: normal;
+    src: url('HelveticaNeuelTStd-ThCn.woff2')format('woff2');
+    src: url('HelveticaNeuelTStd-ThCn.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'sabatoge';
-    src: url('assets/sabatoge.woff2')format('woff2');
-    src: url('assets/sabatoge.woff'); format('woff'):
-    
+    font-family: 'Helvetica Neue Thin';
+    font-weight: 300;
+    font-style: normal;
+    src: url('HelveticaNeuelTStd-Th.woff2')format('woff2');
+    src: url('HelveticaNeuelTStd-Th.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'sabatoge';
-    src: url('assets/sabatoge.woff2')format('woff2');
-    src: url('assets/sabatoge.woff'); format('woff'):
-    
-}
-
-@font-face {
-    font-family: 'sabatoge';
-    src: url('assets/sabatoge.woff2')format('woff2');
-    src: url('assets/sabatoge.woff'); format('woff'):
-    
+    font-family: 'Helvetica Neue Roman';
+    font-weight: 400;
+    font-style: normal;
+    src: url('HelveticaNeuelTSd-Roman.woff2')format('woff2');
+    src: url('HelveticaNeuelTSd-Roman.woff') format('woff');
 }
